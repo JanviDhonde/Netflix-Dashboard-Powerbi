@@ -1,23 +1,15 @@
-Here's a detailed README draft for your Netflix Dashboard project:
+## 🎥 Netflix Dashboard
 
----
-
-# 🎥 Netflix Dashboard
-
-## 📜 Project Overview
+### 📜 Project Overview
 This project involves creating an **interactive Power BI dashboard** that analyzes and visualizes Netflix content, including TV shows and movies. The dashboard offers insights into genres, content ratings, release trends, and production countries. The primary aim is to help users understand the trends and patterns in Netflix's vast library of content.
 
----
-
-## 🎯 Objective
+### 🎯 Objective
 - To provide an interactive and visually appealing representation of Netflix's content data.
 - To uncover insights about popular genres, countries of production, and release patterns.
 - To assist in strategic decision-making for content recommendations or market analysis.
 
----
-
-## ✨ Key Insights and Features
-### Highlights of the Dashboard:
+### ✨ Key Insights and Features
+#### Highlights of the Dashboard:
 1. **Top Genres by Count**  
    - Identifies the top 10 genres based on the number of titles available.  
    - Allows filtering using a date range slicer for added flexibility.
@@ -34,24 +26,18 @@ This project involves creating an **interactive Power BI dashboard** that analyz
 5. **Type of Content**  
    - Compares the distribution of Movies vs. TV Shows, showing a clear preference trend.
 
----
-
-## 🛠️ Tools and Technology
+### 🛠️ Tools and Technology
 - **Power BI**: For designing the interactive dashboard and data visualization.
 - **Excel**: Used for cleaning and preparing the dataset.
 - **DAX (Data Analysis Expressions)**: For calculating measures and enhancing the analysis.
 
----
-
-## 📈 Project Learnings
+### 📈 Project Learnings
 - Enhanced proficiency in Power BI for creating professional-grade dashboards.
 - Mastered DAX functions to perform advanced calculations.
 - Developed data cleaning and modeling skills to handle large datasets effectively.
 - Improved storytelling techniques through data visualization.
 
----
-
-## 📂 How to Use the Dashboard
+### 📂 How to Use the Dashboard
 1. **Clone the Repository**:  
    ```bash
    git clone https://github.com/your-username/netflix-dashboard.git
@@ -64,28 +50,18 @@ This project involves creating an **interactive Power BI dashboard** that analyz
    - Use the slicers to filter data by date range or content type.  
    - Explore different visuals for detailed insights into Netflix content trends.
 
----
+### 🖼️ Dashboard Preview
+ ![Netflix Dashboard Preview](https://github.com/JanviDhonde/Netflix-Dashboard-Powerbi/blob/main/Netflix%20Dashboard.jpg)
 
-## 🖼️ Dashboard Preview
-### Dashboard Highlights:
+#### Dashboard Highlights:
 1. Top Genres and Monthly Trends  
-   ![Netflix Dashboard Preview](Netflix-Dashboard.jpg)
-
 2. Country Contributions and Rating Analysis  
-   ![Netflix Dashboard Preview](Netflix-Dashboard.jpg)
 
----
 
-## 🌟 Why This Project Matters
+### 🌟 Why This Project Matters
 - Provides actionable insights for Netflix users and enthusiasts.
 - Supports strategic decision-making for content acquisition and marketing teams.
 - Showcases the importance of data visualization in uncovering trends and patterns.
 
----
-
-## ⭐ Feedback
+### ⭐ Feedback
 If you find this project insightful, please **star this repository** and share your thoughts. Suggestions for improvements are always welcome!
-
----
-
-Would you like me to assist in formatting images or adding any specific technical details?
